@@ -1,0 +1,3 @@
+﻿CREATE ROLE [TruDBO]
+    AUTHORIZATION [dbo];
+
